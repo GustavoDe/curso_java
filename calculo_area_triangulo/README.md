@@ -2,6 +2,17 @@
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
+## Project features 
+
+The project calculates the area of two triangles, whose measurement is given by the user.
+After executing this calculation, it returns which of the triangles has the largest area.
+
+## Technologies used
+Java was used as language and the Java native Scanner library.
+
+## Objective
+Understand the first concepts of object orientation.
+
 ## Folder Structure
 
 The workspace contains two folders by default, where:
